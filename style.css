@@ -1,0 +1,21 @@
+.ti{
+    text-align: center;
+    color: black;
+}
+
+.img{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 5px; left: 20px;
+    border-radius: 50%;
+}
+
+body{
+    background-color: #b0ffb8;
+}
+
+.li{
+    text-decoration: none;
+    text-align: center;
+}
